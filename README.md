@@ -1,20 +1,10 @@
-### Hi there 👋
-### This is Kieran Yuen
-<!--
-**kieran168/kieran168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 this is Kieran Yuen
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/froldanzafra/](https://www.linkedin.com/in/kieran-yuen/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kieran168)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kieran-yuen/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kieran168@gmail.com)
 
-Welcome to my GitHub page! I am graduating with my M.A. in Economics from The City College of New York!
+#### Welcome to my Github page! I am graduating with my M.A. in Economics from The City College of New York!  
 
-Here are some ideas to get you started:
+#### See below for three research projects I worked on in R Programming during my M.A. Economics program:
 
-🔭 I’m currently working on
-#### 🌱 Things I am currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
