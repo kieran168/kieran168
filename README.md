@@ -6,5 +6,5 @@
 
 #### Welcome to my Github page! I am graduating with my M.A. in Economics from The City College of New York!  
 
-#### See below for three research projects I worked on in R Programming during my M.A. Economics program:
+#### Here are three research projects I worked on in R Programming during my M.A. Economics program! I had a lot of fun working on them and learned a lot about coding in R! And I would love to do the same for your company! I am also very skilled in Microsoft Excel!
 
