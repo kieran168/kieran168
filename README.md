@@ -6,7 +6,7 @@
 
 ### Welcome to my Github page! I just graduated with my M.A. in Economics from The City College of New York!
 
-##### Here are three research projects I worked on in R Programming during my M.A. Economics program! I had a lot of fun working on them and learned a lot about coding in R! And I would love to do the same for you! I am also very comfortable and skilled in Microsoft Excel!
+#### Here are three research projects I worked on in R Programming during my M.A. Economics program! I had a lot of fun working on them and learned a lot about coding in R! And I would love to do the same for you! I am also very comfortable and skilled in Microsoft Excel!
 
 ### Financial_Literacy-AND-Crypto_Currencies
 - Title: Analysis of the influence of cryptocurrency regulation on levels of financial literacy
