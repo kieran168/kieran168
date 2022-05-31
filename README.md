@@ -8,7 +8,7 @@
 
 ### Below are three research projects I worked on in R Programming during my M.A. Economics program! I had a lot of fun working on them and learned a lot about coding in R and about being a better researcher! And I would love to do the same for your projects! 
 
-### Please reach out if you are interested in working in the financial literacy, personal finance, or consumer finance space!
+### Please reach out if you would like to colllaborate in the financial literacy, personal finance, or consumer finance space!
 
 ### Financial_Literacy-AND-Crypto_Currencies
 - Title: Analysis of the influence of cryptocurrency regulation on levels of financial literacy
