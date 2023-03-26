@@ -1,5 +1,3 @@
-Hi there 👋 my name is Kieran
-
 # About Me
 - M.A. Economics
 - 
