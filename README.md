@@ -1,12 +1,16 @@
 ## Hi there 👋 my name is Kieran
 
+# About Me
+- M.A. Economics
+- 
+
+# Projects
+- 
+
+# How to Reach Me
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kieran168)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kieran-yuen/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kieran168@gmail.com)
-
-### Welcome to my Github page! I just graduated with my M.A. in Economics from The City College of New York!
-
-### Below are three research projects I worked on in R Programming during my M.A. Economics program! I had a lot of fun working on them and learned a lot about coding in R and about being a better researcher! And I would love to do the same for your projects! 
 
 ### Please reach out if you would like to collaborate in the financial literacy, personal finance, or consumer finance space!
 
