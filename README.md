@@ -1,17 +1,19 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kieran-yuen/)
 
-### Please reach out if you would like to collaborate in the financial literacy, personal finance, or consumer finance space!
+### Hello and welcome to my GitHub page!
 
-### Financial_Literacy-AND-Crypto_Currencies
-- Title: Analysis of the influence of cryptocurrency regulation on levels of financial literacy
+I'm Kieran, a passionate data analyst constantly exploring and creating innovative solutions. Here, you'll find a variety of projects I've worked on and am currently working on, ranging from regression analysis on rates of financial literacy to . Each project reflects my commitment to learning and my drive to push the boundaries of what's possible with technology.
+
+Feel free to explore my repositories, leave feedback, and connect with me. Let's build something great together!
+
+### Analysis of the influence of cryptocurrency regulation on levels of financial literacy
 - Main finding: The passage of cryptocurrency regulation in a state is a statistically significant determinant on average levels of financial literacy, albeit a small effect.
 - Regression: Ordinary Least Squares (OLS) 
 - Dataset: NFCS survey (www.usfinancialcapability.org)
-- Status: 75% completed (with goal of publishing)
+- Status: Completed
 
-### Psychological-effects-on-Emergency-Savings
-- Title: Effect of stress and anxiety on the likelihood of having a three-month emergency fund
+### Effect of stress and anxiety on the likelihood of having a three-month emergency fund
 -	Main finding: Those who say they are more stressed or have higher levels of anxiety are more likely to have a three-month emergency fund
 -	Regression: Logistic
 -	Dataset: NFCS survey (www.usfinancialcapability.org)
--	Status: Completed December 2020
+-	Status: Completed
