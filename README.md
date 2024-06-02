@@ -1,6 +1,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kieran-yuen/)
 
-### Hello and welcome to my GitHub page!
+# Hello and welcome to my GitHub page!
 
 I'm Kieran, a passionate data analyst constantly exploring and creating innovative solutions. Here, you'll find a variety of projects I've worked on and am currently working on, ranging from regression analysis on rates of financial literacy to . Each project reflects my commitment to learning and my drive to push the boundaries of what's possible with technology.
 
