@@ -12,7 +12,7 @@ Feel free to explore my repositories, leave feedback, and connect with me. Let's
 - Dataset: NFCS survey (www.usfinancialcapability.org)
 - Status: Completed
 
-### [Effect of stress and anxiety on the likelihood of having a three-month emergency fund]([https://github.com/kieran168/Psychological-effects-on-Emergency-Savings](https://kieran168.github.io/Psychological-effects-on-Emergency-Savings/))
+### [Effect of stress and anxiety on the likelihood of having a three-month emergency fund](https://github.com/kieran168/Psychological-effects-on-Emergency-Savings](https://kieran168.github.io/Psychological-effects-on-Emergency-Savings/)
 -	Main finding: Those who say they are more stressed or have higher levels of anxiety are more likely to have a three-month emergency fund
 -	Analysis: Logistic Regression
 -	Dataset: NFCS survey (www.usfinancialcapability.org)
